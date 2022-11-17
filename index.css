@@ -1,9 +1,21 @@
 h1{
+    background-color: lightgrey;
+}
+h1{
     color: aqua;
 }
 h1{ 
     border-color: brown;
 }
+body{
+    background-color: antiquewhite;
+}
 body{ 
     color: blue;
+}
+footer{
+    background-color: black;
+}
+footer{
+    color: aliceblue;
 }
