@@ -13,8 +13,11 @@ body{
 body{ 
     color: blue;
 }
+body{
+    image-orientation: from-image;
+}
 footer{
-    background-color: black;
+    background-color:lavenderblush;
 }
 footer{
     color: aliceblue;
