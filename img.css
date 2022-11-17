@@ -1,9 +1,9 @@
 img{
-    image border : 6cm
-}
-{
-    image border size "6cm"
+    border: 2cm;
 }
 img{
-    
+    background-color: black;
+}
+img{
+    border-style: dotted;
 }
