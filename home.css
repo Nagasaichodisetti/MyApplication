@@ -2,7 +2,7 @@ body{
     background-color: lavenderblush;
 }
 h1{
-    font-style: italic;
+    font-style: italic; size: 20ch;
 }
 h1{
     background-color: black; color: red;
