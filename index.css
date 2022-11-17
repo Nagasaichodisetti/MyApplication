@@ -16,6 +16,12 @@ body{
 body{
     image-orientation: from-image;
 }
+img{
+    border: 6cm;
+}
+img{
+    border-color: black;
+}
 footer{
     background-color:whitesmoke;
 }
